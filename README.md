@@ -11,5 +11,5 @@
 ╭(●｀∀´●)╯╰(●’◡’●)╮
 
 ## 项目源码
-[https://github.com/GitHub-Laziji/vblog][3]
+[GitHub-Laziji的 VBlog](https://github.com/GitHub-Laziji/vblog)
 
